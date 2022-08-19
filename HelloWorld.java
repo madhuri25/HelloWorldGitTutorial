@@ -4,5 +4,6 @@ class HelloWorld
 	{
 		System.out.println("Hello World..GIT");
 		System.out.println("Changes in the file");
+		System.out.println("Some more changes");
 	}
 }
